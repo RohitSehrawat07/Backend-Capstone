@@ -7,9 +7,10 @@
 | | |
 |---|---|
 | Project | Capstone Project 1: University Campus Management System |
+| Project owner | Rohit Sehrawat |
 | Course | Backend Development |
 | Technology | Node.js, Express.js, MongoDB, Mongoose, JWT, Socket.IO |
-| Team members | Name, roll number, contribution (one row per member) |
+| Team members | Rohit Sehrawat — Backend development, API design, authentication, attendance, real-time notifications, and documentation |
 | Faculty guide | |
 | Submission date | |
 
