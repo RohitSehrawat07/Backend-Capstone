@@ -6,6 +6,8 @@ A REST + real-time backend for running university academic workflows. Administra
 
 Capstone Project 1 (Backend Development).
 
+**Project Owner:** Rohit Sehrawat
+
 ---
 
 ## Features
